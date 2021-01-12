@@ -1,7 +1,8 @@
 <template>
   <div id="app">
       <h2>2021加油！！！！！！</h2>
-   <img src="http://img0.dili360.com//ga/M00/49/A2/wKgBy1nPKQyAL6pSAAB0Dep5IVo290.jpg"/>
+      <h2>万事顺意啊！！！！！</h2>
+   <img src="http://img0.dili360.com/ga/M00/03/AD/wKgBzFRRot2AK_WkAAGG4RICPS0099.jpg@!rw4"/>
   </div>
 </template>
 
